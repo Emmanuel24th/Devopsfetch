@@ -24,10 +24,6 @@ Nginx configurations, and user activities.
 
 ## Installation
 
-### 1. Clone the Repository
-
-Clone the repository
-
 ```bash
 
 cd devopsfetch
