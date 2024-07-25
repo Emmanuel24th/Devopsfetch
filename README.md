@@ -29,7 +29,7 @@ Nginx configurations, and user activities.
 Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/devopsfetch.git
+
 cd devopsfetch
 
 2. Create and Activate a Python Virtual Environment (Optional)
